@@ -6,6 +6,9 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 Make sure to install dependencies:
 
+# clone the repo
+git clone https://github.com/gihtub1547821657/sca-sast-dashboard
+
 ```bash
 # npm
 npm install
